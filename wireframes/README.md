@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td><img src="./Images/Create Perameter.png" width="1150px"/></td>
-<td>ligma ballz</td>
+<td>The create parameter page allows the user to add roles to the teams as well as give each role an individual title. There is also a check box that allows the user to limit how many of a particular role the user wants on a team.</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
