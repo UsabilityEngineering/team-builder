@@ -43,11 +43,63 @@
 </tr>
 <tr>
 <td><img src="./Images/Create Perameter.png" width="1150px"/></td>
-<td>The create parameter page allows the user to add roles to the teams as well as give each role an individual title. There is also a check box that allows the user to limit how many of a particular role the user wants on a team.</td>
+<td>11. The create parameter page allows the user to add roles to the teams as well as give each role an individual title. There is also a check box that allows the user to limit how many of a particular role the user wants on a team.</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td><img src="./Images/Create Team Parameter Showcase.png" width="1150px"/></td>
+<td>12. Created paramiters will apear under the add parameter text next to a check box where they can be activated. Each custom parameter will be saved to the account that created it for future use in team building.</td>
+</tr>
+<tr>
+<td><img src="./Images/Create Team Confermation.png" width="1150px"/></td>
+<td>13. Once a team is created a small tab will drop down from the top of the screen to provide confermation that the task was completed.</td>
+</tr>
+<tr>
+<td><img src="./Images/Team view dropdown edit.png" width="1150px"/></td>
+<td>14.  The hamburger in the corner (the three bars) provides a drop down menu of which the user can choose to edit or delete a team.</td>
+</tr>
+<tr>
+<td><img src="./Images/Edit Team Page.png" width="1150px"/></td>
+<td>15. Sfter selecting to edit a team, the user is presented with the ability to change the team's name and description, as well as add and remove people from the team (a function limited to admin).</td>
+</tr>
+<tr>
+<td><img src="./Images/Edit Team Confirmation.png" width="1150px"/></td>
+<td>16. Once the team has been edited a small tab will drop down from the top of the screen to provide confermation that the task was completed.</td>
+</tr>
+<tr>
+<td><img src="./Images/Team View Dropdown Delete.png" width="1150px"/></td>
+<td>17. The hamburger in the corner provides a drop down menu of which the user can choose to edit or delete a team.</td>
+</tr>
+<tr>
+<td><img src="./Images/Team View Confirm Delete.png" width="1150px"/></td>
+<td>18. Upon selecting delete the user is prompted with a secondary confirmation to ensure team deletion was intentional.</td>
+</tr>
+<tr>
+<td><img src="./Images/Delete Team Confirmation.png" width="1150px"/></td>
+<td>19. Once the team has been deleted a small tab will drop down from the top of the screen to provide confermation that the task was completed.</td>
+</tr>
+<tr>
+<td><img src="./Images/Settings Drop Down Settings Select.png" width="1150px"/></td>
+<td>20. Tapping the gear in the top right corner of the screen will display a drop down menu that allows the user to access general settings, user profile, and the sign out function.</td>
+</tr>
+<tr>
+<td><img src="./Images/Settings view.png" width="1150px"/></td>
+<td>21. Tapping settings will take the user to the settings page upon where the font size can be changed and dark mode can be enabled.</td>
+</tr>
+<tr> 
+<td><img src="./Images/Settings Drop Down Profile Select.png" width="1150px"/></td>
+<td>22. Tapping the gear in the top right corner of the screen will display a drop down menu that allows the user to access general settings, user profile, and the sign out function.</td>
+</tr>
+<tr>
+<td><img src="./Images/Settings view1.png" width="1150px"/></td>
+<td>23. Tapping profile will take the user to their personal information page. Here the email associated with the account, as well as all groups and teams the user may be a part of.</td>
+</tr>
+<tr>
+<td><img src="./Images/Settings Drop Down Sign Out Select.png" width="1150px"/></td>
+<td>24. Tapping the gear in the top right corner of the screen will display a drop down menu that allows the user to access general settings, user profile, and the sign out function.</td>
+</tr>
+<tr>
+<td><img src="./Images/Sign Out.png" width="1150px"/></td>
+<td>25. Selecting sign out will prompt the user to confirm that signing out was intentional before taking the user back to the sign in page.</td>
 </tr>
 </tbody>
 </table>
