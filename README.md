@@ -16,6 +16,7 @@ Team Builder is a multi-platform sofware designed to streamline the process of c
   * Executive Summary
   * Personas & Scenarios
   * Heuristic Evaluation
+  * Wireframe report
 * **[Fabian Garcia](https://usabilityengineering.github.io/ux-portfolio-fabiang8/)**
   * Personas & Scenarios
   * Heuristic Evaluation
