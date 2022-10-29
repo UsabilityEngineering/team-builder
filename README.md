@@ -23,7 +23,7 @@ Team Builder is a multi-platform sofware designed to streamline the process of c
  
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](wireframes/)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
