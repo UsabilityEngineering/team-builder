@@ -1,19 +1,15 @@
 
-# (**DRAFT**) Phase II: Refining interaction and designing wireframes
+# Phase II: Refining interaction and designing wireframes
 
 **Members: Nicholas Shaddox, Zane Gabor, and Fabian Garcia**
 
 # Methods
 
-* data gathered from persona/scenario (cognitive walkthrough)
-* informal feedback
-* billboard design
-
-We used Wireframeing, Cognitive Walkthroughs and Informal Feedback during this phase of research to better understand out user base.
+We used Wireframing, Cognitive Walkthroughs, and Informal Feedback during this phase of research to better understand our user base.
 
 ## Wireframing
 
-We used wireframing as a fast way to produce the interactie design of our application (strictly the mobile applications portion). Wireframing allowed us to design and redesign with a relatively low cost with respect to time and money.
+We used wireframing as a fast way to produce the interactive design of our application (strictly the portion of the mobile application). Wireframing allowed us to design and redesign with a relatively low cost with respect to time and money. Wireframing is the designed layout of a user interface that showcases the function and spacial position of each element on a page.
 
 **Complete list of [wireframes](https://github.com/UsabilityEngineering/team-builder/tree/main/wireframes)**
 | Login | Registration | Homepage (New User) |
@@ -22,11 +18,11 @@ We used wireframing as a fast way to produce the interactie design of our applic
 
 
 ## Cognitive Walkthrough
-We used peer reviewed cognitive walkthroughs during this phase. We recieved two of them but one particularly stood out to us. It was very well written (as a walkthrough) and help us discover many issues with out wireframes and the overall design of the application.
+We used peer-reviewed cognitive walkthroughs during this phase. A cognitive walkthrough is an idea of performing a task from the perspective of the user. This user is one of our personas and the task is taken from one of the scenarios from that persona. We received two cognitive walkthroughs but one of them was especially helpful and very detailed. It was very well written (as a walkthrough) and help us discover many issues without wireframes and the overall design of the application.
 
-This walk through was done with our [persona](https://github.com/UsabilityEngineering/team-builder/tree/main/personas) of **Chelsea Bell**.
+This walkthrough was done with our [persona](https://github.com/UsabilityEngineering/team-builder/tree/main/personas) of **Chelsea Bell**.
 
-Education: B.A in Education 
+Education: B.A. in Liberal Arts 
 
 Chelsea recently bought a house and enjoys having company over. She has a cat and a dog and loves to go out on the weekends. When the weather allows, She enjoys going sailing with her friends and family. She uses a lot of group activities to promote sharing and team building. She would like a new way to group students.
 
@@ -70,15 +66,39 @@ page. She has no idea if she is doing the correct actions to progress toward her
 
 
 ## Findings
-Going from the sketches to the wireframes was a drastic change, not just from the visual asthetic (although similar), but also to the workflow. It was much easier to colaborate with the team using Adobe XD than it was to coordinate any sketches. It was made easier because we could see any changes that were made in real time. 
+Going from the sketches to the wireframes was a drastic change, not just from the visual aesthetic (although similar), but also from the workflow. It was much easier to collaborate with the team using Adobe XD than it was to coordinate any sketches. It was made easier because we could see any changes that were made in real-time. 
 
-The wireframes themselves helped us discover some of the short coming that our sketches could not provide insight on.
+**Wireframes**
+* Having a complete set of wireframes is more valuable than a partial set of sketches
+* Some text spaces were increased in size to make room for longer fields
+* We were able to visualize the main page (homepage) more clearly and functionally since you will see this page more than 90% of the time
+* We realized that we were missing the settings button for teams/groups and the app settings button
+* Some aspects are difficult to program
+* We need to add user feedback for items such as deleting a group
 
-**SHOW RESULTS OF COGNITIVE WALKTHROUGH**
+**Cognitive Walkthrough**
+* Registration and login were clear
+* Our "create team/group" button was not clear
+  * Both walkthroughs had this problem and guessed the wrong button to create a group
+* It was difficult to know what button goes to what page based on the wireframes
+* Home page what not designed to direct new users on what to do once they register
+* None was able to complete their tasks in the walkthrough
+* The walkthroughs made us realize that some of our scenarios could be updated
+  * We should also consider coming up with some new personas and scenarios
+ 
 
 ## Conclusion
-
+* Having higher fidelity in wireframes helped us discover some of the shortcomings that our sketches could not provide insight on.
+* We addressed the text size and spacing along with button placement. The app bar was also adjusted for longer text.
+* We also addressed the size and shape of buttons which were mimicked from other chat programs but don't work well for our overall design
+* Based on the cognitive walkthroughs, we have fixed the buttons that create a group and team by combining them into a single button
+  * You now only have the option to create a group and within building that group, you are directed to build a team(s) within that group
+  * We have also added parameters within the group creation page so that our scenarios can be completed.
+ 
 
 ## Caveats
-
+* limited to 2 cognitive walkthroughs
+* Wireframes were incomplete at the time of the walkthrough
+* Personal bias even while using persona/scenario
+* Wireframes are not responsive and testers have to guess what page they think will be next
 
