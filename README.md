@@ -12,11 +12,13 @@ Team Builder is a multi-platform sofware designed to streamline the process of c
   * Phase 1 Report
   * Wireframes
   * Phase 2 Report
+  * Phase 2 Executive Summary
 * **[Zane Gabor](https://usabilityengineering.github.io/ux-portfolio-Zarg410/)**
-  * Executive Summary
+  * Phase 1 Executive Summary
   * Personas & Scenarios
   * Heuristic Evaluation
   * Wireframe report
+  * Phase 2 Executive Summary
 * **[Fabian Garcia](https://usabilityengineering.github.io/ux-portfolio-fabiang8/)**
   * Personas & Scenarios
   * Heuristic Evaluation
@@ -57,6 +59,26 @@ Our **sketches** gave us a view of:
 # Phase II: Refining interaction and designing wireframes
 
 ### Executive Summary
+
+We’ve officially made it past phases one and two in the development of Team Builder. In our efforts to make it an all in **one program for building and managing teams**, we have had several **learning experiences** that have guided the direction of progress on our way to a **usable product**.
+
+We created our initial **wireframes** to:
+* Achieve a **basic understanding of the layout** we are going to use in our application.
+* **Identify** and map out the **key elements** of our application
+* Gain an understanding of the process of putting together a wireframe to begin with.
+
+Upon receiving our **Cognitive Walkthrough** we were presented with a number of problems regarding our wireframes, many of which existed because they were incomplete.
+* **Recurring feedback** was that our application was **confusing to use** 
+* Many elements presented a **poor mental model** for new users
+* The application **did not provide feedback** to the user regarding the task they were currently completing
+* Testers were unsure which buttons lead to which page
+
+Moving forward we have refined our work around the given **feedback**.
+* The wireframes are now **complete**
+* Directions are now **learnable for new users**
+* Creating a new group/team is **easier to follow**
+* Group and team icons were revised for a **better mental model**
+* Confirmation messages added for functions to **provide feedback** to user
 
 
 [Full phase II report](phaseII/)
