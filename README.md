@@ -5,24 +5,27 @@ Team Builder is a multi-platform sofware designed to streamline the process of c
 ## UX Team Members
 
 * **[Nicholas Shaddox](https://usabilityengineering.github.io/ux-portfolio-TheRealKrawll/)**
-  * Sketches
-  * Phase 1 Executive Summary
-  * Heuristic Evaluation
   * Personas & Scenarios
-  * Phase 1 Report
+  * Heuristic Evaluation
   * Wireframes
-  * Phase 2 Report
-  * Phase 2 Executive Summary
+  * Sketches
+  * Phase I Report
+  * Phase I Executive Summary
+  * Phase II Report
+  * Phase II Executive Summary
+  * Phase III Executive Summary
 * **[Zane Gabor](https://usabilityengineering.github.io/ux-portfolio-Zarg410/)**
-  * Phase 1 Executive Summary
   * Personas & Scenarios
   * Heuristic Evaluation
-  * Wireframe report
-  * Phase 2 Executive Summary
+  * Wireframes Report
+  * Prototype
+  * Phase I Executive Summary
+  * Phase II Executive Summary
 * **[Fabian Garcia](https://usabilityengineering.github.io/ux-portfolio-fabiang8/)**
   * Personas & Scenarios
   * Heuristic Evaluation
   * Images for Personas
+  * Phase III report
 
 # User-Centered Design Artifacts
  
@@ -60,7 +63,8 @@ Our **sketches** gave us a view of:
 
 ### Executive Summary
 
-We’ve officially made it past phases one and two in the development of Team Builder. In our efforts to make it an all in **one program for building and managing teams**, we have had several **learning experiences** that have guided the direction of progress on our way to a **usable product**.
+**REWRITE**
+We’ve officially made it past Phase I and II in the development of Team Builder. In our efforts to make it an all in **one program for building and managing teams**, we have had several **learning experiences** that have guided the direction of progress on our way to a **usable product**.
 
 We created our initial **wireframes** to:
 * Achieve a **basic understanding of the layout** we are going to use in our application.
@@ -86,6 +90,27 @@ Moving forward we have refined our work around the given **feedback**.
 # Phase III: Prototypes and User Testing
 
 ### Executive Summary
+
+In phase III of our report, we focused on user testing with a functional prototype (limited by the XD software). We interviewed a **professor** and **four students** from the same class. The interviews were designed to **collect data about specific tasks** and to see if the participants could complete them in a manner that would be **similar to other software that have similar features** answering the fundamental question; Is the Usability Experience **familiar and learnable**?
+
+We created our initial **prototypes** to:
+* **Mimic** the functionality of the programmed **application**.
+* Create a **workflow** we are going **to use in our application**.
+* Emphasize the most **common tasks**.
+* Prepare for **user testing**.
+
+After recieving the feedback from our User Test, there were many common areas where we could imporove. That includes our applcation and the tasks in our user test.
+* Students found that the **members button could be and icon** instead of a dropdown.
+* Students found that the **logout button is less important on mobile than web**.
+* Students found that a **person icon would be better than a gear icon** denoting an account.
+* Students found that completing tasks were familiar using **common conventions*.
+* professor found that it would be useful to have an **archive feature for groups/teams** no longer being used.
+
+The fact that none of the students got stuck on any tasks either indicates that the UI was well designed using common conventions or that the **tasks were too simple to test learnablilty**. Moving forward, these are the changes that we could make.
+* Improve the tests by having the user **start at the beginning of the first task** for each new task. This can better test if the application is learnable.
+* Make the tasks a **multi-step and multi-page process** to better understand users path as they navigate the application. Could give **insight to better/other workflows**.
+* **Make recommended changes** based on the feedback from the user test.
+* **Run another user test** with the everything listed above.
 
 
 [Full phase III report](phaseIII/)
