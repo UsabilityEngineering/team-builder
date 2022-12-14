@@ -21,15 +21,23 @@ In total we had 5 participants, we informed them of our study and had them sign 
 
 
 (**Task 1:**)
+(**Question**)
+(**Three of the four project are already created.Sign in and create the Anubis project**)
 Most students completed the tasks successfully, but not without problems. Although the tasks were completed successfully, some participants mentioned the need for "clarification" or " intuition" regarding the team / group. One participant was afraid of looking around due to fear of "breaking" said prototype. All participants successfully completed the task and took the expected path.
 
 (**Task 2:**)
+(**Question**)
+(**One of your student, Ryan Tanaka, on the Anubis project is dropping the class and will no longer be able to participate in the project.Remove him from the project**)
 All participants completed the task successfully, and most found the chat feature to be in a realistic position. All participants followed the expected path.
 
 (**Task 3:**)
+(**Question**)
+(**One of the projects (Anubis) needs to be dissolved. Remove the Project and move the students from this project to the remaining two.**)
 All participants completed the task successfully, some expressed suggestions to make it more learnable. One participant mentioned that the drop down menu was redundant because it only had one selection. Another participant suggested a person icon, which would make it more learnable. 
 
 (**Task 4:**)
+(**Question**)
+(**It is the end of the semester and the collaborative entiity no longer needs to exist. Remove it.**)
 All participants completed the task successfully, but expressed that the feature was unnecessary. All of the participants expressed that logout on a mobile device is not necessary. One mentioned that asking if they are sure they want to log out is redundant. Another participant mentioned that the location of the logout feature was not in a intuitive place. 
 
 
