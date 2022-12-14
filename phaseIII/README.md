@@ -91,6 +91,22 @@ In total we had 5 participants, we informed them of our study and had them sign 
 
 # Conclusions:
 
+(**Discoveries**)
+- single button to view group members(drop down redundant)
+- logout button / feature pointless
+- person icon instead of gear (learable)
+- Add feature to archive past collaborations
+- make better distinction between group / team
+
+(**Interpret findings**)
+- Tasks may not have been complex enough to test true functionality of application
+- some features could be reworked to be more learnable
+- Most things tested were basic features not prime function
+
+(**Describe Recommendations**)
+- Rework some of the features of the UI to incorporate the results from study
+- Rework prototype to test prime features of application (team building)
+- Redesign tasks to target prime features of application 
 
 # Caveats:
 - Limited testing pool
