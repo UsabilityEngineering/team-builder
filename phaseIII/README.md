@@ -84,3 +84,9 @@ Task was completed to a degree. Participant expressed a desire to keep the colla
 
 
 # Caveats:
+- Limited testing pool
+- All participants are technical 
+
+(**Explanation**)
+Since the testing pool of participants was so small it could have an effect on the reliability of the results. We essentially had only one participant for the professor protocol, which limits our results to that participant's point of view. Another issue was that all of the participants were sourced from our computer science department, which has a more technical audience than the general population. This bias can affect results by introducing participants who have a higher chance of knowing how to maneuver a GUI / Web App.
+
