@@ -65,7 +65,7 @@ Task was completed , and participant expressed that it could have been more intu
 Task was completed. Professor expressed that steps to delete students were confusing , but get the job done. 
 
 (**Task 3:**)
-(**Questions)
+(**Questions**)
 
 
 (**One of the projects (Anubis) needs to be dissolved. Remove the project and move the students from this project to the remaining two.**)
@@ -73,7 +73,7 @@ Task was completed. Professor expressed that steps to delete students were confu
 Task was completed and the expected path was taken. No comments were made by participant.
 
 (**Task 4:**)
-(**Questions)
+(**Questions**)
 
 (**It is the end of the semester and the collaborative entiity no longer needs to exist. Remove it.**)
 
