@@ -154,15 +154,15 @@ If you had three wishes to make this better for you, what would you wish for? Wh
 ## Conclusions:
 
 (**Discoveries**)
-- single button to view group members(drop-down redundant)
-- logout button/feature pointless
-- person icon instead of gear (learnable)
+- Single button to view group members(drop-down redundant)
+- Logout button/feature pointless
+- Person icon instead of gear (learnable)
 - Add a feature to archive past collaborations
-- make a better distinction between group/team
+- Make a better distinction between group/team
 
 (**Interpret findings**)
 - Tasks may not have been complex enough to test the true functionality of the application
-- some features could be reworked to be more learnable
+- Some features could be reworked to be more learnable
 - Most things tested were basic features, not prime function
 
 (**Describe Recommendations**)
