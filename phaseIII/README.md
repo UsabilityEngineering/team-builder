@@ -23,31 +23,63 @@ We had student participants (n = 5). We informed them of our studies and had the
 
 ### Student protocol
 
-**Task 1:**
-You were a late entry on the project and need to join it manually. The project that you are on is called Obelisk.
+**Warm-up Questions**
 
-**Task 2:**
-Part of the assignment is to introduce yourself to your partners and suggest an artist you would like to study.
+Have you had or will you have a class that requires group work? If so, were your groups decided for you?
 
-**Task 3:**
-Since you were late to join the project, you are not sure who your partners are. Find out who you are partnered with
+Have you used any apps, websites, or other programs to help you with team build? Which ones?
 
-**Task 4:**
-You are all done with the application and would like to logout.
+Do you have a favorite website or app?
+
+**Tasks**
+
+**1:** You were a late entry on the project and need to join it manually. The project that you are on is called Obelisk.
+
+**2:** Part of the assignment is to introduce yourself to your partners and suggest an artist you would like to study.
+
+**3:** Since you were late to join the project, you are not sure who your partners are. Find out who you are partnered with
+
+**4:** You are all done with the application and would like to logout.
+
+**Debrief Questions**
+
+Was the interface familiar to you compared to other applications that you have used?
+
+Had you not used this application, would it have taken you longer to do the same tasks?
+
+How would you descibe this to a friend?
+
+If you had three wishes to make this better for you, what would you wish for? Why?
  
 ### Professor protocol
 
-**Task 1:**
-Three of the four projects are already created. Sign in and create the Anubis project.
+**Warm-up Questions**
 
-**Task 2:**
-One of your students, Ryan Tanaka, on the Anubis project is dropping the class and will no longer be able to participate in the project. Remove him from the project.
+Do you have an interest in a software that automates the teambuilding process?
 
-**Task 3:**
-One of the projects (Anubis) needs to be dissolved. Remove the project and move the students from this project to the remaining two.
+Have you used any apps, websites or other program to hel you with team building?
 
-**Task 4:**
-It is the end of the semester and the collaborative entity no longer needs to exist. Remove it.
+Do you have any favorite website or app?
+
+**Tasks**
+
+**1:** Three of the four projects are already created. Sign in and create the Anubis project.
+
+**2:** One of your students, Ryan Tanaka, on the Anubis project is dropping the class and will no longer be able to participate in the project. Remove him from the project.
+
+**3:** One of the projects (Anubis) needs to be dissolved. Remove the project and move the students from this project to the remaining two.
+
+**4:** It is the end of the semester and the collaborative entity no longer needs to exist. Remove it.
+
+**Debrief Questions**
+
+Was the interface familiar to you compared to other applications that you have used?
+
+Had you not used this application, would it have taken you longer to do the same tasks?
+
+How would you descibe this to a friend?
+
+If you had three wishes to make this better for you, what would you wish for? Why?
 
 
 
