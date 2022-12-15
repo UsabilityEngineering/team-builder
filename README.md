@@ -1,6 +1,6 @@
 # Team Builder
 
-Team Builder is a multi-platform software designed to streamline the process of creating teams.
+Team Builder is a multi-platform software designed to streamline the process of creating teams. These team are specically academic in nature and it's intended users are college professor and their students. Currently, there is only one well known program that provides our functionality but they (1) have a cost to use and (2) are only available web. We plan to make the software free to use and be available on web and mobile.
 
 ## UX Team Members
 
