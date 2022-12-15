@@ -8,12 +8,12 @@ Nicholas Shaddox
 
 # Phase III: Prototypes and User Testing
 
-Prototype link:  adobeXD_prototypelink.link
+[Prototype link](../prototype/)
 
-# Introduction:
+## Introduction:
 We are Team-Builder, our application has the goal of assembling teams in an efficient, and simple manner. One of the situations we are hoping to solve is a collaboration between different classes. While also assembling the teams based on the user's team preferences. 
 
-# Methods:
+## Methods:
 In total we had 5 participants, we informed them of our study and had them sign consent forms. Our group had two different protocols: a student, and a professor protocol. We had 4 students and 1 professor participate in our study. After we introduced ourselves and went over warm-up questions. We handed them an iPad device loaded with our prototype. For the student protocol, we had them complete 4 tasks. The first task was to join a specific project as a late entry. The second task was to introduce yourself via the chat menu to your group partners. The third task was to locate your group members. The Final task was to log out. For the professor protocol, we had 1 participant who completed 4 tasks. The first task was to create the final project. The second task was to remove a specific student from a project. The third task was to dissolve a group and move the group members to new teams. The final task was to remove the collaborative entity. 
 
 ### Student protocol
@@ -48,7 +48,7 @@ It is the end of the semester and the collaborative entity no longer needs to ex
 
 ====================================================
 
-# Findings Section:
+## Findings Section:
 ### Student protocol:
 
 
@@ -113,7 +113,7 @@ It is the end of the semester and the collaborative entity no longer needs to ex
 - Task was completed to a degree. A participant expressed a desire to keep the collaborative entity for record's sake. Potential feature inbound.
 
 
-# Conclusions:
+## Conclusions:
 
 (**Discoveries**)
 - single button to view group members(drop-down redundant)
