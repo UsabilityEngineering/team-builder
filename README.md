@@ -108,7 +108,7 @@ After receiving the feedback from our User Test, there were many common areas wh
 
 The fact that none of the students got stuck on any tasks either indicates that the UI was well designed using common conventions or that the **tasks were too simple to test learnability**. Moving forward, these are the changes that we could make.
 * Improve the tests by having the user **start at the beginning of the first task** for each new task. This can better test if the application is learnable.
-* Make the tasks a **multi-step and multi-page process** to better understand users' paths as they navigate the application. Could give **insight to better/other workflows**.
+* Make the tasks a **multi-step and multi-page process** to better understand users' paths as they navigate the application. Could give **insight into better/other workflows**.
 * **Make recommended changes** based on the feedback from the user test.
 * **Run another user test** with the everything listed above.
 
